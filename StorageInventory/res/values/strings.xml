@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Storage Inventory</string>
+    <string name="action_settings">Settings</string>
+    <string name="lot_field_label">Lot</string>
+	<string name="location_field_label">Location:</string>
+	<string name="button_scan">Scan</string>
+	<string name="button_save">Save</string>
+	<string name="object_field_label">Object</string>
+	<string name="save_and_clear_button">Save and Clear</string>
+	<string name="object_hint">Object ID</string>
+	<string name="lot_hint">Lot ID</string>
+	<string name="synchonise_text">Syncrhonise</string>
+	<string name="clear_cache_button">Clear</string>
+	<string name="button_clear_field">Clear</string>
+	<string name="menu_item_clear_history">Clear History</string>
+	<string name="menu_item_refresh_locations">Refresh Locations</string>
+	<string name="radio_button_enable_self_signed">Enable Self-signed SSL</string>
+	<string name="lotFieldLabel">Lot:</string>
+	<string name="objectFieldLabel">Object ID:</string>
+	<string name="record_saved_successful">Record saved</string>
+	<string name="record_saved_failed">Record save failed!</string>
+	<string name="record_history_clear">Record history cleared!</string>
+	<string name="record_history_clear_failure">Record history clear failure!</string>
+	<string name="record_history_empty">Record history empty!</string>
+	<string name="send_to">Send data file to?</string>
+</resources>

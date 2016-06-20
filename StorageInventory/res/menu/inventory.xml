@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="tnmoc.storageinventory.Inventory" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+    <item android:id="@+id/clear_history" android:title="@string/menu_item_clear_history" android:showAsAction="never" android:orderInCategory="200"></item>
+    <item android:id="@+id/refresh_storage_location" android:orderInCategory="400" android:title="@string/menu_item_refresh_locations" android:showAsAction="never"></item>
+
+
+</menu>
